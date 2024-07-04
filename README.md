@@ -35,6 +35,7 @@ Spring Cloud Alibaba AI 以 Spring AI 为基础，并在此基础上提供阿里
 下面的是我修改后的页面，较为简单，主要是完成功能
 
 > 这个是通译千问模式，即文字问答模式
+
 ![image](https://github.com/luooin/SpringCloudAi/assets/85004172/bbea5aa8-f5f9-4573-9be8-12dff68de2c0)
 
 
