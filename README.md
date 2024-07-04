@@ -12,19 +12,27 @@ Spring Cloud Alibaba AI 以 Spring AI 为基础，并在此基础上提供阿里
 
 
 ## 页面访问
-> http://localhost:8080/index.html
+ http://localhost:8080/index.html
 
 配置好之后即可运行，其中阿里云github官网里面有前端页面资源，即resource里面的static静态资源，想要的可以直接去github代码地址里拷贝
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/f2665ad1343449ba9570dd6396d75f26.png)
+
+
 仅拷贝static资源的步骤：
+
 1. 在当前页面点击键盘上的逗号，这样就会跳转到github内嵌的vscode
 2. 然后在想要的资源上右击下载即可下载到本地，然后将其放在项目的resource资源文件下static
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/dd3423f8ddba4e518409cf7a0f172923.png)
+
 用此方法可以通过页面进行访问，即访问刚才从github下载的static静态资源的页面，将链接放在浏览器就到了下面的页面
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/bac468f81624468c8b8247108c7dc775.png)
 
 
 ## 搭建好之后即可运行
+
+下面的是我修改后的页面，较为简单，主要是完成功能
 
 > 这个是通译千问模式，即文字问答模式
 ![image](https://github.com/luooin/SpringCloudAi/assets/85004172/bbea5aa8-f5f9-4573-9be8-12dff68de2c0)
