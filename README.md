@@ -51,5 +51,5 @@ Spring Cloud Alibaba AI 以 Spring AI 为基础，并在此基础上提供阿里
 想要了解更多，最直观的是直接查看github中的源码或者直接访问阿里云官网，其中还提供了图片模型、Llama3大语言模型等，有些的开源的，可以免费玩，上手也简单。
 
 
-[计算机类毕设项目合集点击跳转](http://t.csdnimg.cn/qQgGv)
+[计算机类毕设项目合集点击跳转](http://t.csdnimg.cn/u9Xkz)
 
